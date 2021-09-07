@@ -6,9 +6,7 @@ namespace SumOf3
     {
         static void Main(string[] args)
         {
-            double firstNumber = 7;
-            double secondNumber = 8;
-            double thirdNumber = 9;
+            double firstNumber, secondNumber, thirdNumber;
             const double constantNumber = 7.777;
 
             Console.WriteLine("Type a number. >>");
